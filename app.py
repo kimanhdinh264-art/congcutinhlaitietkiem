@@ -4,7 +4,7 @@ import streamlit as st
 # CẤU HÌNH TRANG
 # ==============================
 st.set_page_config(
-    page_title="Tính lãi gửi tiết kiệm-Đinh Thị Kim Anh",
+    page_title="Tính lãi gửi tiết kiệm_Đinh Thị Kim Anh",
     page_icon="💰",
     layout="centered"
 )
@@ -12,7 +12,7 @@ st.set_page_config(
 # ==============================
 # TIÊU ĐỀ
 # ==============================
-st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM_Đinh Thị Kim Anh")
 st.write("Nhập thông tin khoản tiền gửi để tính tiền lãi và tổng số tiền nhận được.")
 
 st.divider()
